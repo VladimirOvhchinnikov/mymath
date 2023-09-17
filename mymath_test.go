@@ -1,9 +1,11 @@
 package mymath
 
 import (
-	"math"
-	"testing"
+    "math"
+    "testing"
+    "studentgit.kata.academy/OvchinnikovVlI/go-kata/course1/12.package/5.package_version/task1.12.5.1/mymath" 
 )
+
 
 func TestAbs(t *testing.T) {
 	tests := []struct {
